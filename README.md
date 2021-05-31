@@ -1,1 +1,1 @@
-# afya-truma02-aula02
+# afyalabs-Gama Academy - turma02-aula02
